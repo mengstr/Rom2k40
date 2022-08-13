@@ -17,7 +17,7 @@ The PCB is 40 x 19mm (1.6 x 0.75") using a four layer PCB with 0.2mm vias having
 
 ### Schematic
 
-[PDF schematic availabe here](https://github.com/mengstr/Rom2k40/blob/main/Images/Rom2K40.pdf)
+[PDF schematic availabe here](https://github.com/mengstr/Rom2k40/raw/main/Images/Rom2k40.pdf)
 
 ### Bill of materials and substitutions
 
